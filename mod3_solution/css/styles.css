@@ -1,0 +1,51 @@
+.nav>li>a {
+	padding: 0;
+}
+.navbar-nav {
+	margin: 0;
+}
+
+.navbar-default {
+	border: 0px;
+	background-color: #999999;
+	border-radius: 0px;
+}
+
+.navbar-collapse {
+	padding: 0;
+}
+.menu-separator {
+	margin:0;
+	border-color: #000000;
+}
+
+.menu-container > div {
+	background-color: #CCCCCC;
+	margin: 10px;
+	padding: 5px 20px 20px 20px;
+}
+
+.menu-container {
+	padding: 0px;
+}
+
+.navbar-default .navbar-toggle {
+	font-size: 18px;
+	padding: 5px;
+	border-color: #000000;
+}
+.navbar-default .navbar-brand {
+	color: #000000;
+}
+.navbar-header{
+	background-color: #999999;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #000000;
+    background: #EEEEEE;
+}
+
+#collapsable-nav {
+	border: 0px;
+}
